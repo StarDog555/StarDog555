@@ -18,6 +18,6 @@
 
 2. **Try Out RayLib For C** > **Link**: https://www.raylib.com/
 
-3. **Work On My Lang Nova** > **Link**: <In progress>
+3. **Work On My Lang Nova** > **Link**: In progress
 
-4. **Write My Own Os** > **Link**: <TODO>
+4. **Write My Own Os** > **Link**: TODO
