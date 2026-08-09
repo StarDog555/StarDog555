@@ -1,11 +1,13 @@
-> **Hi I am a dev from Canada, And This is my Github Account**
+> **Hi, I am a dev from Canada, And This is my GitHub account**
 
 ### About Me
-**I** code for FUN YAAAAAA :^
+**I** Code for FUN YAAAAAA:^
 
 **I** Love C > **And** Hate JS
 
-**I** like to play videogames **Balatro, Roblox, Minecraft, Dying light, Gta, and Cod** (Call of duty)
+**I** Am inspired by Terry A. Davis's work, Temple Os, Rest in peace!
+
+**I** Like to play Video games **Balatro, Roblox, Minecraft, Dying Light, GTA, and Cod** (Call of Duty)
 
 ---
 
@@ -18,4 +20,4 @@
 
 3. **Work On My Lang Nova** > **Link**: <In progress>
 
-4. **Write My Own Os** > **Link**: TODO
+4. **Write My Own Os** > **Link**: <TODO>
