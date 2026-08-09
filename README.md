@@ -2,7 +2,9 @@
 
 ### About Me
 **I** code for FUN YAAAAAA :^
+
 **I** Love C :) > **And** Hate JS :(
+
 **I** like to play videogames **Balatro, Roblox, Minecraft, Dying light, Gta, and Cod** (Call of duty)
 
 ---
