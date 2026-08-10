@@ -12,11 +12,11 @@
 ---
 
 ### My Todo
-1. **Try Out c3** > **Link**: https://c3-lang.org
 
-2. **Create a app in Go** > **Link**: https://go.dev/
+1. **Create a app in Go** > **Link**: https://go.dev/
 
 2. **Try Out RayLib For C** > **Link**: https://www.raylib.com/
 
 3. **Work On My Lang Nova** > **Link**: https://github.com/StarDog555/Novac
+
 4. **Write My Own Os** > **Link**: TODO
