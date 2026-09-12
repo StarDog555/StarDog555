@@ -11,6 +11,8 @@
 
 ### My To-Do
 
-[X] Finish NetNinja
-[] Work On Novac
-[] Start a .ui (XML) "compiler" in typescript/javascript for Html/Css Ui
+1. Finish NetNinja [x]
+
+2. Work On Novac []
+
+3. Start a .ui (XML) "compiler" in typescript/javascript for Html/Css Ui []
