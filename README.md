@@ -1,18 +1,22 @@
 ### About Me
 **I** Code for FUN YAAAAAA:^
 
-**I** Love C
+**I** Love C and TypeScript
 
 **I** Am inspired by **Terry A. Davis**'s work, Temple Os, Rest in peace!
 
-**I** Like to play Video games **Balatro, Roblox, Minecraft, Dying Light, GTA, and CoD** (Call of Duty)
+**I** like to play Video games: **Balatro, Roblox, Minecraft, Dying Light, GTA, and CoD** (Call of Duty)
 
 ---
 
 ### My To-Do
 
-1. Finish NetNinja [x]
+1. Finish NetNinja [X]
 
 2. Work On Novac []
 
-3. Start a .ui (XML) "compiler" in typescript/javascript for Html/Css Ui []
+3. Start a Flash Archive Project (GitHub) []
+
+4. Esp32-c3 Super Mini Eaglercraft websocket Server []
+
+5. Start a Process Library for Python []
