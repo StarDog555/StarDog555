@@ -15,8 +15,4 @@
 
 2. Work On Novac []
 
-3. Start a Flash Archive Project (GitHub) []
-
-4. Esp32-c3 Super Mini Eaglercraft websocket Server []
-
-5. Start a Process Library for Python []
+3 Start a Process Library for Python []
