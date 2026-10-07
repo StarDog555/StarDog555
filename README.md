@@ -104,12 +104,12 @@ const me = {
 <div align="center">
 
 <!-- 🔧 Replace YOUR_USERNAME with your GitHub username in the 3 links below -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=synthwave&hide_border=true&bg_color=0b0118&title_color=e879f9&icon_color=a855f7&text_color=e9d5ff" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=synthwave&hide_border=true&bg_color=0b0118&title_color=e879f9&text_color=e9d5ff" alt="top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=StarDog555&show_icons=true&theme=synthwave&hide_border=true&bg_color=0b0118&title_color=e879f9&icon_color=a855f7&text_color=e9d5ff" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarDog555&layout=compact&theme=synthwave&hide_border=true&bg_color=0b0118&title_color=e879f9&text_color=e9d5ff" alt="top languages"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0b0118&color=e879f9&line=a855f7&point=ffffff&area=true&area_color=7c3aed&hide_border=true" width="100%" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=StarDog555&bg_color=0b0118&color=e879f9&line=a855f7&point=ffffff&area=true&area_color=7c3aed&hide_border=true" width="100%" alt="activity graph"/>
 
 <br/><br/>
 
