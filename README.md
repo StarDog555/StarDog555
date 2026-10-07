@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="CODE FOR FUN" width="100%"/>
+<img src="banner.svg" alt="CODE FOR FUN" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=D946EF&center=true&vCenter=true&width=700&height=50&lines=%3E+I+code+for+FUN+YAAAAAA+%3A%5E);%3E+I+love+C+%F0%9F%92%BB;%3E+I+love+TypeScript+%E2%9A%A1;%3E+Purple+is+the+best+color+%F0%9F%92%9C;%3E+Balatro+%7C+Roblox+%7C+Minecraft+%7C+GTA+%7C+CoD" alt="typing"/>
 
@@ -68,7 +68,7 @@ const me = {
 
 <div align="center">
 
-<img src="assets/templeos.svg" alt="TempleOS tribute to Terry A. Davis" width="720"/>
+<img src="templeos.svg" alt="TempleOS tribute to Terry A. Davis" width="720"/>
 
 **I** Am inspired by **Terry A. Davis**'s work, **TempleOS**. Rest in peace! 💜
 
