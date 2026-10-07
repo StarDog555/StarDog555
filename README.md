@@ -111,8 +111,4 @@ const me = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=StarDog555&bg_color=0b0118&color=e879f9&line=a855f7&point=ffffff&area=true&area_color=7c3aed&hide_border=true" width="100%" alt="activity graph"/>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=140&section=footer&text=Stay%20Purple%20%F0%9F%92%9C&fontSize=34&fontColor=ffffff&fontAlignY=70" width="100%" alt="footer"/>
-
 </div>
